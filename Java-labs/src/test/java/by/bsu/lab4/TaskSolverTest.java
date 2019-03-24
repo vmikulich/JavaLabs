@@ -4,7 +4,6 @@ import by.bsu.lab4.entity.Product;
 import by.bsu.lab4.util.TaskSolver;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.jupiter.api.BeforeAll;
 
 import static org.junit.Assert.assertEquals;
 

@@ -1,0 +1,42 @@
+2019-03-24 19:22:01 INFO  [main]: The plane has been created
+2019-03-24 19:22:01 INFO  [main]: The airliner has been created
+2019-03-24 19:22:01 INFO  [main]: The plane has been created
+2019-03-24 19:22:01 INFO  [main]: The cargo airplane has been created
+2019-03-24 19:22:01 INFO  [main]: The plane has been created
+2019-03-24 19:22:01 INFO  [main]: The airliner has been created
+2019-03-24 19:22:01 INFO  [main]: The Airline has been created
+2019-03-24 19:22:40 INFO  [main]: The plane has been created
+2019-03-24 19:22:40 INFO  [main]: The airliner has been created
+2019-03-24 19:22:40 INFO  [main]: The plane has been created
+2019-03-24 19:22:40 INFO  [main]: The cargo airplane has been created
+2019-03-24 19:22:40 INFO  [main]: The plane has been created
+2019-03-24 19:22:40 INFO  [main]: The airliner has been created
+2019-03-24 19:22:40 INFO  [main]: The Airline has been created
+2019-03-24 19:40:08 INFO  [main]: The plane has been created
+2019-03-24 19:40:08 INFO  [main]: The airliner has been created
+2019-03-24 19:40:08 INFO  [main]: The plane has been created
+2019-03-24 19:40:08 INFO  [main]: The cargo airplane has been created
+2019-03-24 19:40:08 INFO  [main]: The plane has been created
+2019-03-24 19:40:08 INFO  [main]: The airliner has been created
+2019-03-24 19:40:08 INFO  [main]: The Airline has been created
+2019-03-24 19:46:48 INFO  [main]: The plane has been created
+2019-03-24 19:46:48 INFO  [main]: The airliner has been created
+2019-03-24 19:46:48 INFO  [main]: The plane has been created
+2019-03-24 19:46:48 INFO  [main]: The cargo airplane has been created
+2019-03-24 19:46:48 INFO  [main]: The plane has been created
+2019-03-24 19:46:48 INFO  [main]: The airliner has been created
+2019-03-24 19:46:48 INFO  [main]: The Airline has been created
+2019-03-24 19:47:24 INFO  [main]: The plane has been created
+2019-03-24 19:47:24 INFO  [main]: The airliner has been created
+2019-03-24 19:47:24 INFO  [main]: The plane has been created
+2019-03-24 19:47:24 INFO  [main]: The cargo airplane has been created
+2019-03-24 19:47:24 INFO  [main]: The plane has been created
+2019-03-24 19:47:24 INFO  [main]: The airliner has been created
+2019-03-24 19:47:24 INFO  [main]: The Airline has been created
+2019-03-24 19:57:40 INFO  [main]: The plane has been created
+2019-03-24 19:57:40 INFO  [main]: The airliner has been created
+2019-03-24 19:57:40 INFO  [main]: The plane has been created
+2019-03-24 19:57:40 INFO  [main]: The cargo airplane has been created
+2019-03-24 19:57:40 INFO  [main]: The plane has been created
+2019-03-24 19:57:40 INFO  [main]: The airliner has been created
+2019-03-24 19:57:40 ERROR [main]: java.io.FileNotFoundException: src\main\java\resources\planes.txt (Системе не удается найти указанный путь)
