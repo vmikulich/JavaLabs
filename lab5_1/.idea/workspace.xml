@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d766a4cb-dc1e-422b-b590-a4f565147e38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/bsu/lab5/constans/CreatedMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/bsu/lab5/constans/ErrorConstans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/bsu/lab5/entity/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/bsu/lab5/entity/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/bsu/lab5/entity/Сircumference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/bsu/lab5/exepptions/RadiusIllegalArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/bsu/lab5/util/TaskSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log/application.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/by/bsu/lab5/TaskSolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/entity/Airline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/entity/Airliner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/entity/CargoAirplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/entity/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/factory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/factory/PlaneType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/readWrite/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/readWrite/WriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/util/PlaneWithCurrentFuelConsumption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/util/SortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/util/TotalCapacity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/util/TotalLoadCapacity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/resources/log/application.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/main/resources/planes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/test/java/by/bsu/lab5/PlaneWithCurrentFuelConsumptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/test/java/by/bsu/lab5/SortedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/test/java/by/bsu/lab5/TotalCapacityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab5_2/src/test/java/by/bsu/lab5/TotalLoadCapacityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-labs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-labs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-labs/src/test/java/by/bsu/lab4/TaskSolverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-labs/src/test/java/by/bsu/lab4/TaskSolverTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d766a4cb-dc1e-422b-b590-a4f565147e38" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/lab5/entity/Сircumference.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab5/TaskSolverTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="458">
-              <caret line="26" column="75" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="75" />
+              <caret line="26" column="75" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -337,6 +302,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -441,7 +407,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/lab5/entity/Сircumference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -451,7 +417,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab5/TaskSolverTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
-          <caret line="26" column="75" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="75" />
+          <caret line="26" column="75" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
