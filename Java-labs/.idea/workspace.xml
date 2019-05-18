@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="374902f0-2869-45c7-9103-5cf923fc6ccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab6/src/main/java/by/bsu/lab6/util/TaskSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/src/test/java/by/bsu/lab6/TaskSolverTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/readWrite/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5_2/src/main/java/by/bsu/lab5/readWrite/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/bsu/lab4/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/bsu/lab4/entity/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/by/bsu/lab4/TaskSolverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/by/bsu/lab4/TaskSolverTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,18 +19,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/lab4/util/TaskSolver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab4/TaskSolverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="440">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -39,11 +30,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab3/TaskSolverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="57" column="108" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="108" />
+            <state relative-caret-position="540">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab2/TaskSolverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab2/ValidatinTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/lab3/util/TaskSolver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
+            <state relative-caret-position="220">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
@@ -150,7 +162,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,33 +230,26 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bsu" type="462c0819:PsiDirectoryNode" />
-              <item name="lab3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaLabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bsu" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="lab2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553427626642" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab5_2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556960334733" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -270,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TaskSolverTest (1)">
+  <component name="RunManager" selected="JUnit.ValidatinTest.isCorrectSizeOfRowsAndColumns">
     <configuration name="TaskSolverTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaLabs" />
       <extension name="coverage">
@@ -281,6 +285,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="by.bsu.lab4" />
       <option name="MAIN_CLASS_NAME" value="by.bsu.lab4.TaskSolverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskSolverTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsu.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsu.lab2" />
+      <option name="MAIN_CLASS_NAME" value="by.bsu.lab2.TaskSolverTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -301,8 +320,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidatinTest.isCorrectSizeOfRowsAndColumns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsu.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsu.lab2" />
+      <option name="MAIN_CLASS_NAME" value="by.bsu.lab2.ValidatinTest" />
+      <option name="METHOD_NAME" value="isCorrectSizeOfRowsAndColumns" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ValidatinTest.isCorrectSizeOfRowsAndColumns" />
+        <item itemvalue="JUnit.TaskSolverTest (2)" />
         <item itemvalue="JUnit.TaskSolverTest (1)" />
         <item itemvalue="JUnit.TaskSolverTest" />
       </list>
@@ -330,13 +367,16 @@
       <workItem from="1553416664901" duration="3050000" />
       <workItem from="1555693300818" duration="630000" />
       <workItem from="1555742760274" duration="1674000" />
+      <workItem from="1555753330269" duration="198000" />
+      <workItem from="1555753792240" duration="620000" />
+      <workItem from="1555781693629" duration="104000" />
+      <workItem from="1556958776467" duration="1060000" />
+      <workItem from="1557491898597" duration="156000" />
+      <workItem from="1557558117726" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TaskSolverTest_(1) - 2019.03.09 at 15h 29m 49s.xml">
-      <configuration name="TaskSolverTest (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TaskSolverTest_(1) - 2019.03.09 at 15h 35m 10s.xml">
       <configuration name="TaskSolverTest (1)" configurationId="JUnit" />
     </history-entry>
@@ -361,15 +401,20 @@
     <history-entry file="TaskSolverTest_(1) - 2019.03.09 at 15h 53m 24s.xml">
       <configuration name="TaskSolverTest (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TaskSolverTest_(2) - 2019.05.04 at 11h 34m 08s.xml">
+      <configuration name="TaskSolverTest (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidatinTest_isCorrectSizeOfRowsAndColumns - 2019.05.04 at 11h 34m 31s.xml">
+      <configuration name="ValidatinTest.isCorrectSizeOfRowsAndColumns" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12819000" />
+    <option name="totallyTimeSpent" value="14987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17315437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1295302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -420,12 +465,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/lab2/action/TaskSolver.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab2/ValidatinTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab2/TaskSolverTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -453,6 +492,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab4/TaskSolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab3/TaskSolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab2/TaskSolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -493,25 +556,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/bsu/lab3/util/TaskSolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
+        <state relative-caret-position="220">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab4/TaskSolverTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab2/ValidatinTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="276">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/by/bsu/lab3/TaskSolverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="57" column="108" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="108" />
         </state>
       </provider>
     </entry>
